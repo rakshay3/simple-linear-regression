@@ -6,3 +6,10 @@ This repository contains solutions for four linear regression problems. Three so
 - `dataset/`: Contains all datasets(csv).
 - `src/`: Python scripts for each regression model.
 - `requirements.txt`: List of required Python libraries.
+
+#Metric 
+
+Mean_Squared_Error(mse): It is a way to measure how well the prediction made by the model matches the actual values
+                         A small mse value means the model is better at predicting.
+
+R² Score: It is a percentage of accuracy of the model's prediction with respect to actual values.
