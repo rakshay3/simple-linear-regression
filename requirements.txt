@@ -2,3 +2,4 @@ pandas
 numpy(optional)
 scikit-learn
 matplotlib
+plotnine
