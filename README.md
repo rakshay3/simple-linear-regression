@@ -1,4 +1,4 @@
-# simple-linear-regression
+# Simple-Linear-Regression
 
 This repository contains solutions for four linear regression problems. Three solution uses Python and the scikit-learn library and one solution uses plotnine library to predict target variables based on input datasets.
 
@@ -7,7 +7,7 @@ This repository contains solutions for four linear regression problems. Three so
 - `src/`: Python scripts for each regression model.
 - `requirements.txt`: List of required Python libraries.
 
-#Metric 
+## Metrics
 
 Mean_Squared_Error(mse): It is a way to measure how well the prediction made by the model matches the actual values
                          A small mse value means the model is better at predicting.
